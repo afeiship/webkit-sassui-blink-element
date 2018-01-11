@@ -1,5 +1,5 @@
 /*webkit-sassui-blink-element Start*/
-$webkit-sassui-blink-element-duration:3s;
+$webkit-sassui-blink-element-duration:3s !default;
 @keyframes webkit-sassui-blink-element {
   0% {
     opacity: 1.0;
