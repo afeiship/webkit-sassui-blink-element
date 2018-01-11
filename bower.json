@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-blink-element",
+  "description": "Blink element for webkiSassui",
+  "main": [
+    "dist/webkit-sassui-blink-element.css",
+    "dist/webkit-sassui-blink-element.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "blink-element"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

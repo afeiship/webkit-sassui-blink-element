@@ -1,0 +1,4 @@
+@import "../dist/webkit-sassui-blink-element.scss";
+.test-webkit-sassui-blink-element{
+  @include webkit-sassui-blink-element();
+}

@@ -1,0 +1,20 @@
+/*webkit-sassui-blink-element Start*/
+$webkit-sassui-blink-element-duration:3s;
+@keyframes webkit-sassui-blink-element {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+.webkit-sassui-blink-element{
+  animation-name: webkit-sassui-blink-element;
+  animation-duration: $webkit-sassui-blink-element-duration;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+/*webkit-sassui-blink-element End*/
